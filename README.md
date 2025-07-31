@@ -8,9 +8,9 @@
 
 1. **☕ [Java Core](01-java-core.md)** - JVM, Collections, Concurrency, Streams, Memory Management
 2. **🎯 [Kotlin](02-kotlin.md)** - Null Safety, Corrutinas, Extension Functions, Interop con Java
-3. **🌸 [Spring Boot](03-spring-boot.md)** - DI, MVC, JPA, Security, Testing, Actuator
-4. **☁️ [AWS Cloud](04-aws-cloud.md)** - EC2, S3, Lambda, EKS, RDS, DynamoDB, CloudWatch
-5. **🏗️ [Clean Architecture & DDD](05-clean-architecture-ddd.md)** - Agregados, Value Objects, Use Cases, Domain Services
+3. **🏗️ [Clean Architecture & DDD](03-clean-architecture-ddd.md)** - Agregados, Value Objects, Use Cases, Domain Services
+4. **🌸 [Spring Boot](04-spring-boot.md)** - DI, MVC, JPA, Security, Testing, Actuator
+5. **☁️ [AWS Cloud](05-aws-cloud.md)** - EC2, S3, Lambda, EKS, RDS, DynamoDB, CloudWatch
 6. **🧪 [TDD & Testing](06-tdd-testing.md)** - Pirámide de Testing, Mocks, Testcontainers, E2E
 7. **🚀 [Kubernetes](07-kubernetes.md)** - Pods, Services, Deployments, Helm, Ingress
 8. **🎨 [Design Patterns & SOLID](08-design-patterns-solid.md)** - Patrones Creacionales, Estructurales, Comportamentales
@@ -153,10 +153,10 @@ cd interview-preparation
 open 01-java-core.md
 
 # Para arquitectura:
-open 05-clean-architecture-ddd.md
+open 03-clean-architecture-ddd.md
 
 # Para cloud:
-open 04-aws-cloud.md
+open 05-aws-cloud.md
 
 # 3. Sigue el plan de estudio
 # Dedica 1-2 horas diarias durante 4 semanas
